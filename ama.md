@@ -1,6 +1,6 @@
 # Ask me anything!
 
-## [Ask a question](../../discussions/new?category=ama) &nbsp; &nbsp; [Read questions](../../discussions/categories/ama)
+## [Ask a question](../../discussions/new?category=ama) | [Read questions](../../discussions/categories/ama)
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 

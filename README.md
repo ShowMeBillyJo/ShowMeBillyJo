@@ -7,5 +7,3 @@ I’m Billy Jo (he/they), an experienced software development leader and Eagle S
 <https://showmebillyjo.gitlab.io>
 
 “The first question I ask myself when something doesn’t seem to be beautiful is why do I think it’s not beautiful. And very shortly you discover that there is no reason.” – John Cage
-
-[Ask me anything](./ama.md)
